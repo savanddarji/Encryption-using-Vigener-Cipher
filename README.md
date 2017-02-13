@@ -13,4 +13,4 @@ The sample result is shown as below:
     Your encrypted Text the key jmd is:
     xzfngsxzdcupnfkndhuuynpduurwuqjrraqvcaqnpdhmicqujthjhbvqduuwfmvbxhnblwsxwphamwaqhjrwnddftluqwqqunodvqdvaxbqdwplcewjdwnpwxbojkrwfknxl       xzvdpgnzohfknxlxzjxfxyilctdwshamqmxrxwhmrrafkxehftrmuvcgukqgrfvwufneonqscthwuwbmzjepjxovaxbqvcmqmuqpfunyeuuqpilctinmucthuurwvxvbhmaq       rfdwpvcmucqgcanrxorfwqqpxgvndhzghbfhmfknxlxzwxrrasleqlcfknxlxzinxwyuwhmqmxhoflcfknyrdehamqjidh
 
-Note : If you want to recover your plain text from generated above result then you can use https://github.com/savanddarji/Cracking-a-Shift-Cipher
+Note : If you want to recover your plain text from generated above result then you can use https://github.com/savanddarji/Cracking-a-Vigenere-Cipher
