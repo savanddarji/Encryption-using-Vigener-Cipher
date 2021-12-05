@@ -1,5 +1,5 @@
 # Encryption-using-Vigener-Cipher
-Comments and reviews will be appreciated: If you need any help please don't hesitate to contact me on : darji@uwindsor.ca or savanddarji@gmail.com
+Comments and reviews will be appreciated: darji@uwindsor.ca or savanddarji@gmail.com
 
 The code converts plain text into shift cipher text.
 
